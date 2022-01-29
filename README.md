@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mAlex28
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 📫 How to reach me nowhere
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: alexthegreek2001@gmail.com 
