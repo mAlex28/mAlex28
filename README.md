@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mAlex28
 - 👀 I’m interested in becoming batman
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me: alexthegreek2001@gmail.com 
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: alexthedev2001@gmail.com 
