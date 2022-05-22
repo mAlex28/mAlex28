@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mAlex28
-- 👀 I’m interested in becoming batman
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested becoming an AI Engineer
+- 🌱 I’m currently learning Machine Learning with Python
 - 📫 How to reach me: alexthedev2001@gmail.com 
