@@ -1,6 +1,4 @@
-(My personal website is not working currently as I'm changing the design. But you can view almost all of my projects here in GITHUB)
-
 - 👋 Hi, I’m @mAlex28
-- 👀 I’m following a MSc in Artificial Intelligence at University of West England
-- 🌱 I’m currently learning Machine Learning with Python
+- 👀 I’m a MSc in Artificial Intelligence graduate from University of West England
+- 🌱 I’m currently working on Image Classification with CNN
 - 📫 How to reach me: alexthedev2001@gmail.com 
