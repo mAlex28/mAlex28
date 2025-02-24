@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mAlex28
-- 👀 I’m a MSc in Artificial Intelligence graduate from University of West England
+- 👀 I’m a MSc in Artificial Intelligence graduate
 - 🌱 I’m currently working on Image Classification with CNN
 - 📫 How to reach me: alexthedev2001@gmail.com 
